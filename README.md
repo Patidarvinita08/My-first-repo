@@ -20,3 +20,6 @@ I am pursuing M.Tech in Computer Science and Engineering with a specialization i
 ## Live Demo
 
 👉 https://patidarvinita08.github.io/My-first-repo/
+## Screenshot
+
+![Project Screenshot](homepage.png)
